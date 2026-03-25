@@ -1,0 +1,49 @@
+Aesthetics 
+  •	Different color blocks
+  •	Fun colors :)
+  •	Colorful blocks
+  •	Empty space above blocks
+  •	Design themes (custom art)
+  •	The solution may implement music 
+  •	Game should have sound effects 
+  •	Kinser face is ball (optional setting) 
+Gameplay
+  •	Moving ball zero gravity movement 
+  •	Ball must be able to bounce off walls, bricks, and platform 
+  •	The solution has an ability to fire a projectile that does damage to bricks
+  •	Ball physics 
+  •	Limited play area 
+  •	The solution must have borders which bounce balls
+  •	Ball trajectory based on where ball hits paddle 
+  •	Mouse or arrow key movement 
+  •	Platform must be able to move left to right
+  •	Bricks must be destroyable 
+  •	Mobile controls (Finger drag)
+  •	Modes? Power up? For example blocks at one time or….
+  •	Handle multiple balls 
+  •	Different blocks (types) 
+  •	Block health 
+  •	Variable platform size? 
+Score/Progression
+  •	Leaderboard/Top scores storage 
+  •	Player high score 
+  •	The solution has a time for each round 
+  •	Level progression 
+  •	Rounds 
+  •	Usernames for players 
+  •	Game must track player score 
+  •	Score tracking 
+  •	Scoreboard
+  •	Score tracking 
+  •	Deeper blocks worth more score 
+Start/End Conditions
+  •	Game must end when ball falls below paddle 
+  •	3 lives 
+  •	The solution implements a new round after a victory 
+  •	Player can pause 
+  •	Player can restart 
+Other Constraints
+  •	Mobile Compatible 
+  •	Must be run on web browser 
+  •	Single player 
+  •	Downloadable 
