@@ -1,13 +1,38 @@
 /* style.css */
-/* TEMP!!! */
 body {
     margin: 0;
-    padding: 0;
-    height: 100%;
-    width: 100%;
-    margin: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: white;
+}
+
+#gamespace {
+    background-color: cornflowerblue;
+    width: 800px;
+    height: 700px;
+    margin: 0 auto;
+    position: relative;
+}
+
+#paddle {
+    background-color: bisque;
+    position: absolute;
+    height: 20px;
+    width: 80px;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+#brickContainer {
+    background-color: darkolivegreen;
+    height: 200px;
+  }
+
+#ball {
+    height: 10px;
+    width: 10px;
+    background-color: black;
+    position: absolute;
+
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 25px;
 }
